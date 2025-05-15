@@ -10,6 +10,6 @@ I welcome your feedback, discussions, and opportunities to collaborate. Let’s 
 
 Wishing you success and fulfillment in all your endeavors!
 
-<div class="contra-hire-me-button" data-analyticsUserId="01cbc3b4-0eac-4a17-a5a3-83d3ce91062c" data-theme="light" data-username="john_ngai"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
 
+<div class="contra-hire-me-button" data-analyticsUserId="01cbc3b4-0eac-4a17-a5a3-83d3ce91062c" data-theme="light" data-username="john_ngai"></div>
 <a href="https://www.buymeacoffee.com/weizy0219" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
